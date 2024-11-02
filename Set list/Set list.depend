@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1702924116 source:c:\users\d_tol\desktop\sections\c112\c\set list\main.c
+	<stdio.h>
+	<stdlib.h>
+	"SetList.h"
+
+1702918652 c:\users\d_tol\desktop\sections\c112\c\set list\setlist.h
+
+1702923846 source:c:\users\d_tol\desktop\sections\c112\c\set list\setlist.c
+	<stdio.h>
+	<stdlib.h>
+	"SetList.h"
+

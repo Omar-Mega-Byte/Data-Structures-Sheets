@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1697824175 source:c:\users\d_tol\desktop\sections\c112\c\sheets\main.c
+	<stdio.h>
+	"Stack.h"
+
+1697908910 source:c:\users\d_tol\desktop\sections\c112\c\sheets\stack.c
+	<stdio.h>
+	"Stack.h"
+
+1697908220 c:\users\d_tol\desktop\sections\c112\c\sheets\stack.h
+
+1697909624 source:c:\users\d_tol\desktop\sections\c112\c\sheets\test.c
+	<stdio.h>
+	"Stack.h"
+
+1697885616 source:c:\users\d_tol\desktop\sections\c112\c\sheets\firstelement.c
+
+1723193133 source:c:\users\d_tol\desktop\sections\c112\c\stack\stack.c
+	<stdio.h>
+	"Stack.h"
+
+1697908220 c:\users\d_tol\desktop\sections\c112\c\stack\stack.h
+
+1698612817 source:c:\users\d_tol\desktop\sections\c112\c\stack\test.c
+	<stdio.h>
+	"Stack.h"
+

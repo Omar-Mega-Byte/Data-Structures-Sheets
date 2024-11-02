@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1702328781 source:c:\users\d_tol\desktop\sections\c112\c\linkedqueue\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedQueue.h"
+
+1702330408 c:\users\d_tol\desktop\sections\c112\c\linkedqueue\linkedqueue.h
+
+1702974356 source:c:\users\d_tol\desktop\sections\c112\c\linkedqueue\linkedqueue.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedQueue.h"
+

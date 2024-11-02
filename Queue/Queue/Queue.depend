@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1698607335 source:c:\users\d_tol\desktop\sections\c112\c\queue\queue\main.c
+	<stdio.h>
+	"Queue.h"
+
+1698604006 c:\users\d_tol\desktop\sections\c112\c\queue\queue\queue.h
+
+1698607288 source:c:\users\d_tol\desktop\sections\c112\c\queue\queue\queue.c
+	<stdio.h>
+	"Queue.h"
+

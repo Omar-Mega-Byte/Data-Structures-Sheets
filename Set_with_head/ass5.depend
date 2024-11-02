@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1543690349 source:/media/emanismail/Work/DataStructure/DS/Set/main.c
+	<stdio.h>
+	"set.h"
+
+1639220123 /media/emanismail/Work/DataStructure/DS/Set/set.h
+
+1543676511 source:/media/emanismail/Work/DataStructure/DS/Set/set.c
+	"set.h"
+	<stddef.h>
+
+1639235144 source:c:\users\mosta\onedrive - faculty of computers and information\desktop\set\set.c
+	"set.h"
+	<stddef.h>
+
+1639233912 c:\users\mosta\onedrive - faculty of computers and information\desktop\set\set.h
+
+1639235051 source:c:\users\mosta\onedrive - faculty of computers and information\desktop\set\main.c
+	<stdio.h>
+	"set.h"
+
+1639232613 source:c:\users\muham\desktop\set\main.c
+	<stdio.h>
+	"set.h"
+
+1639231412 c:\users\muham\desktop\set\set.h
+
+1639232497 source:c:\users\muham\desktop\set\set.c
+	"set.h"
+	<stddef.h>
+
+1640012344 source:d:\materail\winter 2021\ds\sections\set\main.c
+	<stdio.h>
+	"set.h"
+
+1639233912 d:\materail\winter 2021\ds\sections\set\set.h
+
+1639487453 source:d:\materail\winter 2021\ds\sections\set\set.c
+	"set.h"
+	<stddef.h>
+
+1669531784 source:d:\uni\ds\2022\set\main.c
+	<stdio.h>
+	"set.h"
+
+1669549195 d:\uni\ds\2022\set\set.h
+
+1669541236 source:d:\uni\ds\2022\set\set.c
+	"set.h"
+	<stddef.h>
+
+1669531784 source:c:\users\d_tol\desktop\sections\c112\c\set_with_head\main.c
+	<stdio.h>
+	"set.h"
+
+1669549195 c:\users\d_tol\desktop\sections\c112\c\set_with_head\set.h
+
+1669541236 source:c:\users\d_tol\desktop\sections\c112\c\set_with_head\set.c
+	"set.h"
+	<stddef.h>
+
